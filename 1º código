@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>Tags</title>
+</head>
+<body>
+   <h1>Título Maior H1</h1> 
+   <p>Aqui é o texto que aparece dentro do H1</p>
+   
+   <h2>Título menor que H1</h2>
+   <p>Este é o texto que aparece no H2</p>
+
+   <h3>Título menorque h2</h3>
+   <p>Esté é o Título que aparece no H3</p>
+
+   <h4>Título menor que h3</h4>
+   <p>Este é o Título que aparece no H4</p>
+
+   <h5>Título menor que h4</h5>
+   <p>Este é o Título que aparece no H5 </p>
+
+   <h6>Título menor que h5</h6>
+   <p>Este é o Título que aparece no H6</p>
+
+   <p><strong> é um teste</strong> de <s>HTML</s> que estou fazendo agora para testar no meu site </p>
+   <p>Assim como na linha de cima, estou utilizando um parágrafo para um teste</p>
+   <hr>
+ <div>
+       <a target="blank"href="https://github.com/Kavallera">Meu github</a>
+   </div>
+</body>
+</html>
