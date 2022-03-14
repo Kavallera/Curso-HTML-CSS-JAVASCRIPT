@@ -1,0 +1,39 @@
+.titulo{
+    font-size: 50px;
+    font-family: Arial;
+}
+.moon{
+    color:rgb(194, 97, 18);
+font-size: 25px;
+font-family: Arial;
+}
+.satelit{
+    color: cornsilk;
+    font-size: 25px;
+    font-family: Arial;
+}
+.mundo{
+    color: brown;
+    font-size: 25px;
+    font-family: Arial;
+}
+h1 {
+    color: rgb(255, 255, 255);
+    font-size: 60px;
+    font-variant-position: calc(30);
+   border: 2px solid rgb(110, 74, 6)
+}
+h4{
+    color: rgb(136, 123, 10);
+}
+body{
+    background-image: url(https://wallpapercave.com/wp/wp6322106.jpg);
+    background-repeat: repeat;
+    background-size: cover;
+} 
+p{
+    color:rgb(201, 235, 11);
+    font-size: 25px;
+    font-family: Arial;
+
+}
