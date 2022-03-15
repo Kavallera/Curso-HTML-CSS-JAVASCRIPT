@@ -37,3 +37,8 @@ p{
     font-family: Arial;
 
 }
+a[href="https://github.com/Kavallera"]{
+    color: rgb(219, 219, 133);
+    font-size: 25px;
+    font-family: Arial;
+}
