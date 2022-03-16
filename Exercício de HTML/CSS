@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <title>Treino CSS</title>
+</head>
+<link rel="stylesheet" href="style1.css">
+
+<body>
+    <h1>Treinamento para Astronautas</h1>
+
+    <h3>Dias da semana</h3>
+    <div id="days-of-week">
+        <ul>
+            <li>Segunda</li>
+            <li>Terça</li>
+            <li>Quarta</li>
+        </ul>
+    </div>
+    <div>
+        <h2>Segunda</h2>
+        <ul>
+            <li>Condicionamento cardiorrespiratório</li>
+            <li>Aula de mecânica</li>
+        </ul>
+    </div>
+    <div>
+        <h2>Terça</h2>
+        <ul>
+            <li>Treinamento em gravidade zero</li>
+            <li id="astronomy-class">Aula sobre astronomia</li>
+        </ul>
+        <div>
+            <h2>Quarta</h2>
+            <ul>
+                <li>Aula sobre coleta de material cientifico</li>
+                <li id="astronomy-class">Aula sobre astronomia</li>
+            </ul>
+        </div>
+    </div>
+    <br>
+    <hr>
+    <h3 id="github">Meu github</h3>
+    <div id="github">
+        <img src="github.png" alt="" width="100" height="100">
+        <a target="blank" href="https://github.com/Kavallera">Kavallera </a>
+    </div>
+</body>
+
+</html>
