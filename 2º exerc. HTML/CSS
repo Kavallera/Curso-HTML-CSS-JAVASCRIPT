@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta />
+    <title>Blog</title>
+    <link href="https://fonts.googleapis.com/css?family=Montserrat|Open+Sans|Roboto&display=swap" rel="stylesheet" />
+    <link rel="stylesheet" type="text/css" href="style2.css" />
+</head>
+
+<body>
+    <div class="post-content">
+        <div class="post">
+            <p class="date">21 DE DEZEMBRO DE 2022</p>
+            <p></p>
+            <h1>Primeira Publicação do Blog</h1>
+            <div class="post-content">
+                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Quaerat pariatur rem qui nam veniam numquam maiores tempore quas vero, rerum vel? Nemo repellat sapiente nulla eos impedit veniam, natus dolores!</p>
+            </div>
+        </div>
+        <hr/>
+        <div class="post">
+            <p class="date">22 de dezembro de 2022</p>
+            <h1>Segunda Publicação do blog</h1>
+            <div class="post-content">
+                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Dignissimos delectus, aperiam provident vel ipsa accusamus ab saepe quasi voluptates! Veniam necessitatibus assumenda facilis dolorum eos similique voluptates, reiciendis accusamus
+                    iure.
+                </p>
+            </div>
+        </div>
+        <hr>
+        <div class="post">
+            <p class="date">22 de dezembro de 2022</p>
+            <h1>Terceira Publicação do blog</h1>
+            <div class="post-content">
+                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Dignissimos delectus, aperiam provident vel ipsa accusamus ab saepe quasi voluptates! Veniam necessitatibus assumenda facilis dolorum eos similique voluptates, reiciendis accusamus
+                    iure.
+                </p>
+            </div>
+        </div>
+        <h3 id="github">Meu github</h3>
+        <div id="github">
+            <img src="github.png" alt="" width="100" height="100">
+            <a target="blank" href="https://github.com/Kavallera"> @vagner Kavallera </a>
+        </div>
+</body>
+
+</html>
