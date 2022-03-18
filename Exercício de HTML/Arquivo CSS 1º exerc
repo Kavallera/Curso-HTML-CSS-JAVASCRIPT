@@ -1,0 +1,42 @@
+body {
+    background-color: #2c3e50;
+    font-family: Arial, Helvetica, sans-serif
+}
+
+h1 {
+    color: aliceblue;
+    font-family: 'montserrat';
+}
+
+h3 {
+    color: #f1c40f;
+}
+
+h2 {
+    border: 2px solid;
+    background-color: #f1c40f;
+}
+
+li {
+    color: aliceblue;
+}
+
+div #astronomy-class {
+    color: #e74c3c;
+}
+
+p {
+    color: white;
+    font-family: Verdana;
+}
+
+a[href="https://github.com/Kavallera"] {
+    color: rgb(219, 219, 133);
+    font-size: 25px;
+    font-family: Verdana;
+    text-align: center;
+}
+
+#github {
+    text-align: center;
+}
