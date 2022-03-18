@@ -1,0 +1,44 @@
+body {
+    background-color: rgb(16, 17, 16);
+}
+
+h1 {
+    font-family: 'montserrat';
+    border: 2px solid;
+    background-color: #0c8686;
+    color: aliceblue;
+}
+
+.post-content {
+    width: 70%;
+}
+
+.post-content .date {
+    font-family: 'roboto', sans-serif;
+    color: #d8e6e6;
+    font-size: 20px;
+}
+
+p {
+    font-family: 'montserrat';
+    color: aliceblue;
+}
+
+.post-content .post {
+    margin-left: 50px;
+    margin-top: 10px;
+    padding-left: 50px;
+}
+
+#github {
+    color: #d8e6e6;
+    font-family: roboto;
+    padding-left: 500px;
+}
+
+a[href="https://github.com/Kavallera"] {
+    color: rgb(255, 255, 255);
+    font-size: 25px;
+    font-family: roboto;
+    text-align: left;
+}
