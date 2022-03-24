@@ -1,44 +1,23 @@
-.titulo{
-    font-size: 50px;
-    font-family: Arial;
+* {
+    padding: 0;
+    margin: 0;
 }
-.moon{
-    color:rgb(194, 97, 18);
-font-size: 25px;
-font-family: Arial;
-}
-.satelit{
-    color: cornsilk;
-    font-size: 25px;
-    font-family: Arial;
-}
-.mundo{
-    color: brown;
-    font-size: 25px;
-    font-family: Arial;
-}
-h1 {
-    color: rgb(255, 255, 255);
-    font-size: 60px;
-    font-variant-position: calc(30);
-   border: 2px solid rgb(110, 74, 6)
-}
-h4{
-    color: rgb(136, 123, 10);
-}
-body{
-    background-image: url(https://wallpapercave.com/wp/wp6322106.jpg);
-    background-repeat: repeat;
-    background-size: cover;
-} 
-p{
-    color:rgb(201, 235, 11);
-    font-size: 25px;
-    font-family: Arial;
 
+.container {
+    min-height: 100vh;
+    background-color: black;
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    grid-template-rows: repeat(3, 1fr);
+    gap: 10px;
+    row-gap: 10px;
+    column-gap: 10px;
 }
-a[href="https://github.com/Kavallera"]{
-    color: rgb(219, 219, 133);
-    font-size: 25px;
-    font-family: Arial;
+
+.item {
+    height: auto;
+    background-color: rgb(255, 255, 255);
+    border: 1px solid black;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    text-align: center;
 }
