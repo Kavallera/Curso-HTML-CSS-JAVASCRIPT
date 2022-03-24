@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+
+<head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" href="./style.css" />
+    <title>Css Grid</title>
+</head>
+
+<body>
+    <div class="container">
+        <div class="item">Lorem ipsum dolor sit amet consectetur adipisicing elit. Repudiandae quo perspiciatis odit quibusdam praesentium! Voluptates, inventore eligendi fugit eos quo ea deleniti odit! Id expedita quidem ipsa, eveniet eum at nemo, culpa quam rerum totam
+            in dolorum velit sint dolorem tempore. Quam aperiam ad dignissimos tenetur ipsa beatae eos libero, commodi exercitationem, ipsam illo aliquid, ducimus voluptates iure quis veniam!</div>
+        <div class="item">Lorem ipsum dolor sit amet consectetur adipisicing elit. Eveniet facere voluptates totam repudiandae ab consectetur possimus est voluptatem corrupti aperiam? Quis quasi saepe delectus provident, deserunt vero quaerat, hic debitis autem dolorum
+            error blanditiis est ad obcaecati tenetur temporibus officiis!</div>
+        <div class="item">Lorem ipsum dolor sit amet consectetur adipisicing elit. At ut molestiae totam. Natus non aspernatur, ratione ut recusandae vel, assumenda quas neque nemo at porro reprehenderit soluta. Tempora, suscipit repellendus! img</div>
+        <div class="item">4</div>
+        <div class="item">5</div>
+        <div class="item">6</div>
+    </div>
+</body>
+
+</html>
